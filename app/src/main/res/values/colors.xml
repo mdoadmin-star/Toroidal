@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette -->
+    <color name="color_primary">#1565C0</color>
+    <color name="color_primary_dark">#0D47A1</color>
+    <color name="color_accent">#42A5F5</color>
+
+    <!-- Backgrounds -->
+    <color name="color_bg">#111827</color>
+    <color name="color_surface">#1E2A3A</color>
+
+    <!-- Text -->
+    <color name="color_text">#E8ECF0</color>
+    <color name="color_muted">#7B8794</color>
+
+    <!-- Status -->
+    <color name="color_pass">#00C853</color>
+    <color name="color_fail">#FF1744</color>
+    <color name="color_warn">#FFB300</color>
+
+    <!-- Badge backgrounds for PASS / FAIL / WARN / unknown -->
+    <color name="color_pass_bg">#1A00C853</color>
+    <color name="color_fail_bg">#1AFF1744</color>
+    <color name="color_warn_bg">#1AFFB300</color>
+</resources>

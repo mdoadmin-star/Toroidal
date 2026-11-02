@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toroid Inspector</string>
+    <string name="menu_history">History</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_calibrate">Calibrate Camera</string>
+    <string name="menu_new_batch">New Batch</string>
+    <string name="menu_export_pdf">Export PDF</string>
+    <string name="calibrate_first">Calibrate camera first (⋮ menu → Calibrate)</string>
+    <string name="saved">Measurement saved</string>
+    <string name="voice_pass">Pass</string>
+    <string name="voice_fail">Fail</string>
+    <string name="voice_warn">Warning</string>
+    <string name="stability_pct">Stabilizing… %d%%</string>
+    <string name="batch_tally">%d total · %d pass · %d fail</string>
+    <string name="flip_hint">Flip coil on side for height</string>
+    <string name="measuring">Measuring…</string>
+    <string name="locked">LOCKED ✓</string>
+</resources>
